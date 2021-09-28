@@ -1,7 +1,7 @@
 # Mohamed-Tahir.github.io
 website: Mohamed-Tahir.github.io
 
-created a blog with teh help of jekyll's blog aware functionality
+created a blog with the help of jekyll's blog aware functionality
 added various files for the structure of the blog/web page
 
 Headings in the repository
